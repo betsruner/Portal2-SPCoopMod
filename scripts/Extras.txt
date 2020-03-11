@@ -1,0 +1,45 @@
+"Extras"
+{
+	"Mode 1"
+	{
+		"title"		"Course 1"
+		"subtitle"	"Team Building"
+		"pic"		"solocoop/course1thumbnail"
+		"map"		"sp_a1_intro2"
+	}
+	"Mode 2"
+	{
+		"title"		"Course 2"
+		"subtitle"	"Mass And Velocity"
+		"pic"		"solocoop/course2thumbnail"
+		"map"		"sp_a1_intro3"
+	}
+	"Mode 3"
+	{
+		"title"		"Course 3"
+		"subtitle"	"Hard Light"
+		"pic"		"solocoop/course3thumbnail"
+		"map"		"sp_a1_intro4"
+	}
+	"Mode 4"
+	{
+		"title"		"Course 4"
+		"subtitle"	"Excursion Funnels"
+		"pic"		"solocoop/course4thumbnail"
+		"map"		"sp_a1_intro5"
+	}
+	"Mode 5"
+	{
+		"title"		"Course 5"
+		"subtitle"	"Mobility Gels"
+		"pic"		"solocoop/course5thumbnail"
+		"map"		"sp_a1_intro6"
+	}
+	//"Mode 6"
+	//{
+		//"title"		"Course 6"
+		//"subtitle"	"Art Therapy"
+		//"pic"		"solocoop/course6thumbnail"
+		//"map"		"sp_a1_intro7"
+	//}
+}
